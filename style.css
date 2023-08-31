@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+.link:hover {
+    color: coral;
+    text-decoration: underline;
+  }
+
+.title {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7d7987;
+    text-align: justify;
+    user-select: none;
+}
+
+.sub-title {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.article-name {
+     color: #222222;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 10px;
+}
+
+.logo {
+    border-radius: 15px;
+    cursor: pointer;
+}
